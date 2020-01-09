@@ -8,4 +8,4 @@ navbar:
     - text: "Example"
       href: example.html
     - text: "MYBIO"
-      href: MyBIO.html
+      href: MyBIOPage.html
