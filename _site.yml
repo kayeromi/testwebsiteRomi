@@ -1,0 +1,11 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Demo Romi Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Example"
+      href: example.html
+    - text: "MYBIO"
+      href: MyBIO.html
